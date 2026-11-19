@@ -40,4 +40,4 @@ This tutorial demonstrates how to mount a CoreGold VCC into your US Apple Wallet
 Once linked, your CoreGold VCC acts as a native local debit card. Double-click your device power button and authenticate via Face ID to pay for Claude Pro, Notion, or App Store purchases instantly.
 
 👉 **[Get Started with CoreGold & Apple Pay Today](https://app.coregold.io/signup?invite_code=ADvlj9b)**
-<img width="1024" height="409" alt="13981c46e10d8d3b0d3cf3e51d8f2d61" src="https://github.com/user-attachments/assets/f89bf3b5-14fb-4fb8-a523-6b03ebb5fb06" />
+<img width="1024" height="409" alt="13981c46e10d8d3b0d3cf3e51d8f2d61" src="https://github.com/user-attachments/assets/f89bf3b5-14fb-4fb8-a523-6b03ebb5fb06" /> 
